@@ -4,7 +4,7 @@ Hi 👋 My name is wasu chailangka
 Full stack developer
 --------------------
 
-* 🌍  I'm based in I'm base in Phayao, Thailand
+* 🌍
 
 ### Skills
 
